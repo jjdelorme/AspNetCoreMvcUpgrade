@@ -1,0 +1,6 @@
+{
+  "ExtensionName": "Google Cloud ASP.NET MVC Upgrader",
+  "ExtensionServiceProviders": [
+    "aspnetupgrade.dll"
+  ]
+}
